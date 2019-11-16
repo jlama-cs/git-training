@@ -1,0 +1,7 @@
+Rename this file by the following command :
+
+git mv rename-this.txt newname.txt
+
+Followed by a commit :
+
+git commit -m "Renamed a file"

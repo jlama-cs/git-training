@@ -1,0 +1,7 @@
+Remove this file by the following command :
+
+git rm remove-this.txt
+
+Followed by a commit :
+
+git commit -m "Removed file"
